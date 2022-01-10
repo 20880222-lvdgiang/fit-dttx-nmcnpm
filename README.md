@@ -7,4 +7,6 @@ Demo Nhập môn công nghệ phần mềm
   - Thiết kế dữ liệu
   - Thiết kế giao diện
   - Thiết kế xử lý
+  - Kiểm thử
   - Triển khai
+  
