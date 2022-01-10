@@ -27,4 +27,19 @@ if(flag==true)
     console.log("=> a =",a);
     console.log("=> b =",b);
     console.log("=> c =",c);
+
+    const d = 777;
+    let e = 666;
+    var f = 555;
+
+    console.log("=> let b =",b);
+    console.log("=> var c =",c);
+
+    console.log("=> d =",d);
+    console.log("=> e =",e);
+    console.log("=> f =",f);
 }
+
+//console.log("=> d =",d);
+//console.log("=> e =",e);
+console.log("=> f =",f);
